@@ -1,5 +1,5 @@
 # TwitterSentimentAnalyzer
- End-to-end machine learning project about Twitter sentiment analysis. The project covers the entire process, starting from data collection and preprocessing, model building, creating a dashboard, and finally deploying the model and dashboard as an online application. You can read the comprehensive guide (including the code walkthroughs) on the [articles series posted on Supertype.ai](https://supertype.ai/twitter-sentiment-analysis/).
+End-to-end machine learning project about Twitter sentiment analysis. The project covers the entire process, starting from data collection and preprocessing, model building, creating a dashboard, and finally deploying the model and dashboard as an online application. You can read the comprehensive guide (including the code walkthroughs) on the [articles series posted on Supertype.ai](https://supertype.ai/twitter-sentiment-analysis/).
 
  Link to resources:
  
@@ -11,3 +11,4 @@
  
  * Streamlit app:  [twitter-sentiment.streamlit.app](https://twitter-sentiment.streamlit.app/)
  
+
